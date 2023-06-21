@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    width: 350px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    border-radius: 15px;
+}
+#box:active{
+    font-size: 15px;
+    width: 250px;
+}

@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    width: 350px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+}
